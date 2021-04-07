@@ -16,7 +16,7 @@ Learn the basics of git workflow, including adding new files.
 
 5. Add the image to this file using markdown syntax.
 
-![a cute puppy](PUPPY.jpeg)
+![a cute puppy](/IMAGES/PUPPY.jpeg)
 
 5. Write a paragraph of text where you explain what the picture is
    about.  Feel free to add more.
